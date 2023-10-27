@@ -12,7 +12,7 @@ import java.util.logging.Logger;
 public class MyClientSocket {
 
     public static void main(String[] args) {
-        String ip = "192.168.1.117"; 
+        String ip = "192.168.116.1"; 
         int port = 9991; 
 
         Cifrar cifrador = new Cifrar(); 
